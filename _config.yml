@@ -1,0 +1,16 @@
+title: J. Alderman Lyell
+description: Notes on evaluating machine-written prose. Mostly measurements, including the ones that went against me.
+theme: minima
+show_excerpts: true
+author:
+  name: J. Alderman Lyell
+minima:
+  skin: classic
+  social_links:
+    - platform: github
+      user_url: "https://github.com/wolfvswhale"
+header_pages:
+  - about.md
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
