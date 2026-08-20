@@ -86,3 +86,8 @@ Code, data-building script, results, and the figure are at [github.com/wolfvswha
 ---
 
 **Sources.** RAID: [arXiv:2405.07940](https://arxiv.org/abs/2405.07940), ACL 2024, generations produced 1–15 November 2023. MAGA-Bench: [arXiv:2601.04633](https://arxiv.org/abs/2601.04633). Base models look human: [arXiv:2605.19516](https://arxiv.org/abs/2605.19516). Style features from [prose-eval](https://github.com/wolfvswhale/prose-eval).
+
+
+## Changelog
+
+**Version 1.0, 5 August 2026.** First published.
