@@ -108,3 +108,10 @@ Finally, I have audited the rubrics, not the tasks. Whether GDPval's 220 prompts
 
 Code, data and results: [github.com/wolfvswhale/gdpval-audit](https://github.com/wolfvswhale/gdpval-audit)
 Prior work: [Epoch AI, "What do 'economic value' benchmarks tell us?"](https://epoch.ai/blog/what-do-economic-value-benchmarks-tell-us), February 2026
+
+
+## Changelog
+
+**Version 1.1, 20 August 2026.** Re-checked against the source. The openai/gdpval dataset on Hugging Face reports a last-modified date of 10 February 2026, earlier than the 5 August 2026 retrieval this review was computed from, so every figure above still recomputes unchanged from the same revision.
+
+**Version 1.0, 6 August 2026.** First published.
