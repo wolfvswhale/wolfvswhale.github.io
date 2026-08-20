@@ -3,6 +3,6 @@ layout: home
 list_title: Benchmark reviews
 ---
 
-I write, and I build measurement tools for writing. These are the reviews: short, evidence-first pieces about how machine-generated-text detection gets evaluated, and where the evaluation goes wrong.
+I review AI benchmarks: how they are graded, what a score stands for, and where the evaluation goes wrong.
 
-Every post links to the code and the data behind it. Where a result made my own work look worse, that result is in the post.
+Every post links to the code and the data behind it, carries a version number and a changelog, and recomputes from published sources.
